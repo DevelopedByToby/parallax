@@ -1,3 +1,4 @@
+import * as basicScroll from 'basicscroll'
 document.querySelectorAll('.scene').forEach((elem) => {
 
   const modifier = elem.getAttribute('data-modifier')
@@ -18,3 +19,5 @@ document.querySelectorAll('.scene').forEach((elem) => {
 })
 
 document.documentElement.style.setProperty('--color', randomColor())
+const basicScroll = require('basicscroll')
+
