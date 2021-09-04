@@ -1,4 +1,4 @@
-<h1>kind of parallax</h1>
+<h1>kind of a parallax</h1>
 
 This is a parallax I made a while whilst following a tutorial a while go and I somehow broke it.
 
